@@ -1,0 +1,5 @@
+export const DEFAULT_COLOR = '#ffffff'
+export const ADD_COLOR_BUTTON_TEXT = 'Добавить цвет'
+export const SAVE_COLOR_BUTTON_TEXT = 'Сохранить'
+export const EDIT_BUTTON_TEXT = '✏️'
+export const DELETE_BUTTON_TEXT = '❌'

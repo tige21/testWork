@@ -1,0 +1,21 @@
+.wrapper {
+	margin-top: 100px;
+	.colorContainer {
+		display: flex;
+		align-items: center;
+		margin-top: 20px;
+		flex-wrap: wrap;
+		gap: 20px 52px;
+	}
+}
+
+@media (max-width: 443px) {
+	.colorContainer {
+		display: flex;
+		align-items: center;
+		margin-top: 20px;
+		flex-direction: column;
+		flex-wrap: wrap;
+		gap: 20px 52px;
+	}
+}

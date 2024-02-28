@@ -1,0 +1,13 @@
+.colorBlock {
+	max-width: 200px;
+	height: 10rem;
+	width: 10rem;
+	max-height: 200px;
+	border-radius: 8px;
+	.editButton,
+	.deleteButton {
+		border: none;
+		cursor: pointer;
+		font-size: 14px;
+	}
+}

@@ -1,0 +1,25 @@
+@import '../../App.scss';
+
+.timerRulesList {
+	list-style-type: decimal;
+	padding-left: 20px;
+
+	li {
+		margin-bottom: 10px;
+		font-size: 16px;
+		line-height: 1.5;
+		text-align: start;
+		cursor: pointer;
+		transition: background-color 0.3s ease;
+
+		&:hover {
+			transition: 0.2s;
+			font-size: 1rem;
+			color: $primary;
+		}
+
+		&:last-child {
+			margin-bottom: 0;
+		}
+	}
+}
