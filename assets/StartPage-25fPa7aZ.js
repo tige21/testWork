@@ -1,0 +1,1 @@
+import{j as t}from"./index-VmLLPhWR.js";const e="_container_2t91a_1",a="_text_2t91a_6",s={container:e,text:a},c=()=>t.jsx("div",{className:s.container,children:t.jsx("div",{className:s.text,children:"sjlkfjasklfj"})});export{c as default};
