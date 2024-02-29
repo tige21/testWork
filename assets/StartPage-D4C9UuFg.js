@@ -1,1 +1,0 @@
-import{j as t}from"./index-CsSMKztI.js";const s="_container_1tpvc_1",c="_text_1tpvc_6",e={container:s,text:c},n="Практическое задание по React",o=()=>t.jsx("div",{className:e.container,children:t.jsx("div",{className:e.text,children:n})});export{o as default};
